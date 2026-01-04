@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e6bfe1d-88fe-4864-b34b-1b8e964db863" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProjectULT-AI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/_featureXAI/_acustic_region_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/_featureXAI/_contour_masker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/_featureXAI/_vertically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/_featureXAI/requirements_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/BUTTONS 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/Enterance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/Full 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/Main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/Main1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/Main2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/info-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/info-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/language_option.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/long_load.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/refreash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/swich_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/swich_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/terms_of service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/ticked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gui_assets/unticked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_CNN-hyperband.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fusion_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/easy_qt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/koordinat finder.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zHIDyfZRULIHEFO8vZgKsPMrEH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.UNET_OPTIMIZATION.executor&quot;: &quot;Run&quot;,
+    &quot;Python._echogenity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.attempts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ult_ai2turkish.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asyao/PycharmProjects/ProjectULT-AI/models&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\models" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\tools" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\data" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\algorithms" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\data" />
+      <recent name="C:\Users\asyao\PycharmProjects\ProjectULT-AI\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6bfe1d-88fe-4864-b34b-1b8e964db863" name="Changes" comment="" />
+      <created>1751381455457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751381455457</updated>
+    </task>
+    <servers />
+  </component>
+</project>
